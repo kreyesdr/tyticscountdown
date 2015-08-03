@@ -4674,7 +4674,7 @@
 $(document).ready(function() {
     function e() {
         var e = new Date;
-        e.setDate(e.getDate() + 60);
+        e.setDate(e.getDate() + 86);
         dd = e.getDate();
         mm = e.getMonth() + 1;
         y = e.getFullYear();
